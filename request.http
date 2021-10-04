@@ -1,0 +1,13 @@
+GET http://localhost:8000/bananas
+
+###
+
+GET http://localhost:8000/mangos
+
+###
+
+POST http://localhost:8000/bananas
+
+###
+
+POST http://localhost:8000/mangos
